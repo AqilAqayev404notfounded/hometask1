@@ -45,6 +45,8 @@ namespace bbbb
 
             //string line = "--------------------------";
             //string name = "Aqil";
+            //string name = "Aqil";
+            //string name = "Aqil";
             //string soname = "Aghayev";
             //int age = 20;
             //string MyPhoneNumber = "0706721202";
